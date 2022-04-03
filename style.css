@@ -28,14 +28,14 @@ body {
     font-size: 18px;
     color: #E5E7EB;
     justify-content: right;
-    padding-right: 2rem;     
+    padding-right: 15rem;     
  }
 
  .header-logo {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: bold;
-    padding-left: 4rem;
+    padding-left: 10rem;
  }
 
 /*Top "hero" section*/
@@ -140,3 +140,71 @@ body {
     flex-wrap: wrap;
     text-align: center;
 } 
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    padding: 0 200px;
+}
+
+.quote h2 {
+    display: block;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+    margin-block-end: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+
+.quote p {
+    color: #1F2937;
+    font-weight: bolder;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    text-align: right;
+
+}
+
+/* Call to Action & Button */
+
+.sign-up {
+    display: flex;
+    color:#E5E7EB;
+    background-color: #3882F6;
+    border-radius: 10px;
+    justify-content: space-between;
+    width: 40%;
+    padding-right:5rem;
+    padding-left: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    align-self: center;
+}
+
+.signuptext {
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+    gap: 3px;
+}
+
+.sign-up button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10px;
+    width: 25%;
+    height: auto;
+    border:3px; 
+    border-style: solid;
+    border-color: white;
+}
+
+/* Footer */
