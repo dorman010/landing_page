@@ -185,6 +185,8 @@ body {
     padding-top: 2rem;
     padding-bottom: 2rem;
     align-self: center;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
 }
 
 .signuptext {
@@ -208,3 +210,9 @@ body {
 }
 
 /* Footer */
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #E5E7EB;
+}
