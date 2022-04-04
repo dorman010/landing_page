@@ -1,1 +1,2 @@
-# landing_page
+This project definitely took me some time - flex boxes are certainly cool as heck!
+In all honesty, the documentation offered by the Odin Project is amazing. Using comments to segment your CSS is also very handy, though I'm certain my code isn't the most elegant. :D
